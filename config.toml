@@ -1,0 +1,48 @@
+baseURL = 'http://NorthCounty.Surf/'
+languageCode = 'en-us'
+theme = 'graysx'
+title = 'North County Surf'
+
+## Site Settings
+[params]
+logo = "assets/img/NoCoSurf.webp"
+favicon = "assets/NoCoSurf.png"
+
+# Info
+address = "North County San Diego"
+email = "jsacosta1103@gmail.com"
+phone = "(760) 208-3887"
+
+# Socials
+
+twitter = "https://twitter.com/irjerad"
+facebook = "https://facebook.com/jeradacosta"
+# github = "https://github.com/akatiggerx04/graysx-hugo"
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+# sbtoken = "TOKEN_HERE"
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Projects"
+  URL = "#projects"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#signup"
+  weight = 3
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04

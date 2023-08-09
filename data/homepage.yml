@@ -1,0 +1,35 @@
+# Main Title
+main:
+  header:
+    title : "North County Surf" # Title Text
+    description1 : "All Surf" # Title Desc
+    description2: "All The Time"
+    button:
+      text: "About Us" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "NoCo Surf"
+  desc: "Brought about with the intent of making the art of surfing more accessible and more progressive. Birthed in 2023 out of an obsessive passion for the sport of surfing and a love for the home breaks of North County San Diego. NoCo Surf idealizes surfing as the cornerstone of the North County San Diego lifestyle."
+  button:
+    enable: true
+    text: "Join Us"
+    url: "#signup"
+  image: "assets/img/ipad.png"
+
+projects:
+  card1:
+    title: "Dawn Patrol"
+    question1: "Have you harbored a burning desire to pick up a board and take on mother natures most spiritual domain.."
+    question2: "Would you dare to mount peaks spawned from fierce storms across The Pacific.."
+    text: "We are looking for heart and passion over experience and flair. Selective in which students we choose to take on, we are looking for those with a desire to embody the idealogy of surfing and what it brings into your life."
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "In The Zone"
+    text: "Core to our curriculum is the concept of attaining flow in surfing. This zen-like state of mind is responsible for the attractiveness of our sport and why it is so sacred and beneficial to those who practice it."
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Love and Respect"
+    text: "Each and every interaction you have with us will be conjured out of love and respect. Our endearment for the ocean and love for the sport of surfing travels through our veins and emerges to form the bonds of our servitude and product. From this we hope to spark or fuel a similar connection with our beloved pastime."
+    img: "assets/img/demo-image-02.jpg"
