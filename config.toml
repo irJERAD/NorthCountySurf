@@ -32,12 +32,12 @@ facebook = "https://facebook.com/jeradacosta"
   weight = 3
 
   [[menu.main]]
-  name = "NoCo Surf"
+  name = "About Us"
   URL = "#about"
   weight = 1
 
   [[menu.main]]
-  name = "Prospects"
+  name = "About You"
   URL = "#prospects"
   weight = 2
 
