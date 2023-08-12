@@ -8,6 +8,25 @@ main:
       text: "About Us" # Button Text
       url: "#about" # Button URL
 
+# Services
+services:
+  title: "Services"
+  card1:
+    title: "One-On-One Lessons"
+    subtitle: "(w/ video)"
+    text: "This is the fastest way to get up and surfing in North Coast with your own HD video recording of the session. Footage is crucial to any surfer learning or progressing. Professionals and beginners alike need to break down everything from their stance and the position of their feet to their style and how they are using their arms. When you surf, the whole body comes together to help you function in something referred to as style. With the footage of your lesson, not only will you have a great keepsake and momento of the day's catch, you will get to review your style and technique in the same medium used by the pros."
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Beach Session"
+    subtitle: "(Video/Photo)"
+    text: "For the duration of a session you will have a high definition GPS enable camera following you on each wave you catch. Additionally, you will have a land-based photographer taking crisp and perfectly timed shots. This makes a perfect gift for someone who loves surfing since seeing yourself shred always brings a smile to your face. Pair this offering with a water session to give your favorite surfer something special from all the angles."
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Water Session"
+    subtitle: "(Video/Photo)"
+    text: "Your surfer will be followed by an experienced waterman with a mirrorless camera encased in a water housing designed for surf photgraphy. This is how you capture the legendary barrel shot and show just how edgy and intense one's surfing it. Pair this offering with a beach session to give your favorite surfer something special from all the angles. "
+    img: "assets/img/demo-image-02.jpg"
+
 # About
 about:
   title: "NoCo Surf"
@@ -18,7 +37,9 @@ about:
     url: "#signup"
   image: "assets/img/ipad.png"
 
-projects:
+# Prospects
+prospects:
+  title: "Prospects"
   card1:
     title: "Dawn Patrol"
     question1: "Have you harbored a burning desire to pick up a board and take on mother natures most spiritual domain.."

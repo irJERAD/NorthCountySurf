@@ -27,19 +27,24 @@ facebook = "https://facebook.com/jeradacosta"
 ## Menu Items
 [menu]
   [[menu.main]]
-  name = "About"
+  name = "Services"
+  URL = "#services"
+  weight = 3
+
+  [[menu.main]]
+  name = "NoCo Surf"
   URL = "#about"
   weight = 1
 
   [[menu.main]]
-  name = "Projects"
-  URL = "#projects"
+  name = "Prospects"
+  URL = "#prospects"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "Join Us!"
   URL = "#signup"
-  weight = 3
+  weight = 4
 
 
 # Credits
