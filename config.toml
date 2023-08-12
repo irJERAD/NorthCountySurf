@@ -5,7 +5,7 @@ title = 'North County Surf'
 
 ## Site Settings
 [params]
-logo = "assets/img/NoCoSurf.webp"
+logo = "assets/img/NoCoSurf-icon.png"
 favicon = "assets/NoCoSurf.png"
 
 # Info
