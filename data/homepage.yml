@@ -20,12 +20,12 @@ services:
     title: "Beach Session"
     subtitle: "(Video/Photo)"
     text: "For the duration of a session you will have a high definition GPS enable camera following you on each wave you catch. Additionally, you will have a land-based photographer taking crisp and perfectly timed shots. This makes a perfect gift for someone who loves surfing since seeing yourself shred always brings a smile to your face. Pair this offering with a water session to give your favorite surfer something special from all the angles."
-    img: "assets/img/demo-image-01.jpg"
+    img: "assets/img/hit-lip.jpg"
   card3:
     title: "Water Session"
     subtitle: "(Video/Photo)"
     text: "Your surfer will be followed by an experienced waterman with a mirrorless camera encased in a water housing designed for surf photgraphy. This is how you capture the legendary barrel shot and show just how edgy and intense one's surfing it. Pair this offering with a beach session to give your favorite surfer something special from all the angles. "
-    img: "assets/img/demo-image-02.jpg"
+    img: "assets/img/dst-c-v.jpg"
 
 # About
 about:
